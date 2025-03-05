@@ -1,0 +1,1 @@
+This is a new file which contains some info that is necessary to make first commit which is needed in order to make some meaningful changes
